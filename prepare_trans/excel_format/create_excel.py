@@ -7,7 +7,7 @@ import sys
 import datetime
 import argparse
 
-# version 2.1 updated on 27-04-2019
+# version 2.2 updated on 15-05-2019
 # James M. Tucker, PhD (cand.)
 # University of Toronto
 # Depedencies: xlsxwriter install with `pip3 install xlsxwriter`
@@ -221,6 +221,7 @@ def make_transcriber_notebook(args):
                     "l",
                     "s",
                     "m",
+                    "_", # update 2.2 (space can be either ""  or "_")
                 ]
 
                 chars.data_validation(
