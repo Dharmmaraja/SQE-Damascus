@@ -1,4 +1,4 @@
- ,Label,Area,Mean,Min,Max,BX,BY,Width,Height,Major,Minor,Angle,Circ.,AR,Round,Solidity
+roi_id,Label,Area,Mean,Min,Max,BX,BY,Width,Height,Major,Minor,Angle,Circ.,AR,Round,Solidity
 1,02_Frg_1_c_א_ROI.tif:2329-3986:1,403,21.846,14,43,3980,2314,13,31,34.980,14.669,90,0.654,2.385,0.419,1.000
 2,02_Frg_1_c_א_ROI.tif:2339-3935:1,2205,19.782,9,37,3911,2317,49,45,55.291,50.777,0,0.784,1.089,0.918,1.000
 3,02_Frg_1_c_א_ROI.tif:2429-3775:1,24380,22.942,8,60,3729,2297,92,265,299.020,103.811,90,0.601,2.880,0.347,1.000
