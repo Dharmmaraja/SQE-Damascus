@@ -51,10 +51,14 @@ def get_source(scroll):
     if refresh == 1:
         pass
     else:
-        # load_more_link = browser.find_element_by_tag_name("c-search-page__load-more") #body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
-        load_more_link = browser.find_element_by_xpath(
-            "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"
-        )  # body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
+        try:
+            # load_more_link = browser.find_element_by_tag_name("c-search-page__load-more") #body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
+            load_more_link = browser.find_element_by_xpath(
+                "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"
+            )  # body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
+            if load_more_link is None:
+                load_more_link = 12
+                
         count = 12
         for i in range(0, int(refresh)):
             try:
