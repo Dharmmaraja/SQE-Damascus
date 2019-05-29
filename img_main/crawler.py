@@ -58,16 +58,16 @@ def get_source(scroll):
             )  # body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
             if load_more_link is None:
                 load_more_link = 12
-                
-        count = 12
-        for i in range(0, int(refresh)):
-            try:
-                load_more_link.click()
-                time.sleep(5)
-                count = int(count) + 12
-                print("Refreshing html…")
-            except Exception:
-                pass
+        except:
+            count = 12
+            for i in range(0, int(refresh)):
+                try:
+                    load_more_link.click()
+                    time.sleep(5)
+                    count = int(count) + 12
+                    print("Refreshing html…")
+                except Exception:
+                    pass
     browser.implicitly_wait(7)
     html_source = browser.page_source
     browser.close()
