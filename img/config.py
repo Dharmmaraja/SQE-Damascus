@@ -113,3 +113,19 @@ def nli_url(filename='urls.ini', section='URLS'):
     else:
         raise Exception('Section does not exist in {1} list'.format(section, filename))
     return urls['nli']
+
+def img_db(filename='database.ini', section='DB'):
+    """
+    Export connection to the IAA Image database filenames
+    """
+    parser = ConfigParser()
+    
+    parser.read(filename)
+    dbs = {}
+    if parser.has_section(section):
+        db = parser.items(section)
+        for db in dbs:
+            dbs[db[0]] = db[1]
+    else:
+        raise Exception('Section does not exist in {1} list'.format(section, filename))
+    return dbs['img']

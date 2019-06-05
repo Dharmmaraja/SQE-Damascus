@@ -1,7 +1,7 @@
 import sqlite3
 from sqlite3 import Error
 import pandas as pd
-
+from config import img_db
 
 def fetch_images():
     """
@@ -9,7 +9,10 @@ def fetch_images():
     """
     # sqlite3 does not have regexp, so this is solved in the dataframe
     sql_query = """SELECT * FROM nli_images"""
-    conn = sqlite3.connect('db/imgs.db')
+    
+    db = img_db()
+
+    conn = sqlite3.connect(db)
 
     df = pd.read_sql_query(sql_query, conn)
     df['PLATE'] = df['file_name'].str.extract('^(?:[Pp|plate])?(?: )?([0-9A-z]+)')
