@@ -72,7 +72,7 @@ def get_source(scroll):
     html_source = browser.page_source
     browser.close()
 
-    with open("img/ll_source/" + scroll + ".html", "w") as htm:
+    with open("leon_levy/" + scroll + ".html", "w") as htm:
         htm.write(html_source)
         htm.close()
     return html_source
