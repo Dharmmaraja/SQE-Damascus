@@ -1,131 +1,75 @@
 from configparser import ConfigParser
 
-def config_qumrandse(filename='database.ini', section='qumrandse'):
+
+def config_item(filename, section):
+    """ 
+    Create a configuration and export PATH
+    :filename: specified .ini file
+    :section: desired section in the .ini file
+    :return: section
+    """
+    parser = ConfigParser()
+
+    parser.read(filename)
+
+    items = {}
+    if parser.has_section(section):
+        params = parser.items(section)
+        for param in params:
+            items[param[0]] = param[1]
+    else:
+        raise Exception('Section {} is not found in {}'.format(section, filename))
+    return items
+
+def config_qumrandse(filename='database.ini', section='damascus'):
     """
     Establish the configuration to the Critical Editions of Second Temple Texts database
     :return: database connection
     """
-    #create a parser
-    parser = ConfigParser()
+    db_path = config_item('database.ini', 'damascus')
+    return db_path
 
-    #read config file
-    parser.read(filename)
-    
-    #get section for database
-    db = {}
-    if parser.has_section(section):
-        params = parser.items(section)
-        for param in params:
-            db[param[0]] = param[1]
-    else:
-        raise Exception('Section {} not found in the {} file'.format(section, filename))
-    return db
         
-def config_qwb(filename='database.ini', section='QWB'):
+def config_qwb():
     """
     Establish the configuration to the Critical Editions of Second Temple Texts database
     :return: database connection
     """
-    #create a parser
-    parser = ConfigParser()
+    db_path = config_item('database.ini', 'QWB')
+    return db_path
 
-    #read config file
-    parser.read(filename)
-
-    #get section for database
-    db = {}
-    if parser.has_section(section):
-        params = parser.items(section)
-        for param in params:
-            db[param[0]] = param[1]
-    else:
-        raise Exception('Section {0} not found in the {1} file'.format(section, filename))
-    return db
-
-def config_wivu(filename='database.ini', section='WIVU'):
+def config_wivu():
     """
     Establish the configuration to the Critical Editions of Second Temple Texts database
     :return: database connection
     """
-    #create a parser
-    parser = ConfigParser()
+    db_path = config_item('database.ini', 'WIVU')
+    return db_path
 
-    #read config file
-    parser.read(filename)
-
-    #get section for database
-    db = {}
-    if parser.has_section(section):
-        params = parser.items(section)
-        for param in params:
-            db[param[0]] = param[1]
-    else:
-        raise Exception('Section {0} not found in the {1} file'.format(section, filename))
-    return db
-
-def img_docs(filename='paths.ini', section='PATHS'):
+def img_docs():
     """
     Serve the PATH to the img docs directory
     """
-    parser = ConfigParser()
-
-    parser.read(filename)
-
-    docs = {}
-    if parser.has_section(section):
-        params = parser.items(section)
-        for param in params:
-            docs[param[0]] = param[1]
-    else:
-        raise Exception('Section {0} not found in the {1} file'.format(section, filename))
+    docs = config_item('path.ini', 'PATHS')
     return docs['path_to_img_db']
 
-def img(filename='paths.ini', section='PATHS'):
+def img():
     """
     Serve the PATH to the img directory
     """
-    parser = ConfigParser()
-
-    parser.read(filename)
-
-    img = {}
-    if parser.has_section(section):
-        params = parser.items(section)
-        for param in params:
-            img[param[0]] = param[1]
-    else:
-        raise Exception('Section {} not found in the {1} file'.format(section, filename))
+    img = config_item('paths.ini', 'PATHS')
     return img['path_to_img']
 
-def nli_url(filename='urls.ini', section='URLS'):
+def nli_url():
     """
     The config file for URLS contains sites of interest to my research
     """
-    parser = ConfigParser()
-
-    parser.read(filename)
-
-    urls = {}
-    if parser.has_section(section):
-        links = parser.items(section)
-        for link in links:
-            urls[link[0]] = link[1]
-    else:
-        raise Exception('Section does not exist in {1} list'.format(section, filename))
+    urls = config_item('url.ini', 'URLS')
     return urls['nli']
 
-def img_db(filename='database.ini', section='DB'):
+def img_db():
     """
     Export connection to the IAA Image database filenames
     """
-    parser = ConfigParser()
-    
-    parser.read(filename)
-    dbs = {}
-    if parser.has_section(section):
-        db = parser.items(section)
-        for db in dbs:
-            dbs[db[0]] = db[1]
-    else:
-        raise Exception('Section does not exist in {1} list'.format(section, filename))
+    dbs = config_item('database.ini', 'DB')
     return dbs['img']
