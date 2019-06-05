@@ -28,8 +28,8 @@ def main(args):
     
     iaa_imgs = fetch_images()
 
-    if not os.path.exists('img/P' + str(args.iaa_plate)):
-        os.mkdir('img/P' + str(args.iaa_plate))
+    if not os.path.exists('plates/P' + str(args.iaa_plate)):
+        os.mkdir('plates/P' + str(args.iaa_plate))
 
     # filter df.series on iaa_plate (sometimes unwarranted plates will be found)
     plate_info = iaa_imgs[iaa_imgs.PLATE.str.contains(args.iaa_plate)]
