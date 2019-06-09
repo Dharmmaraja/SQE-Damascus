@@ -24,7 +24,7 @@ def pull_down(f, plate, res):
     url = str(nli) + str(f) + "/full/pct:" + str(res) + "/0/default.jpg"
     
     img = http.request('GET', url, preload_content=False)
-    with open("img/P" + str(plate) + "/" + str(f), 'wb') as out:
+    with open("plates/P" + str(plate) + "/" + str(f), 'wb') as out:
         logging.debug('Downloaded {} …'.format(f))
         while True:
             data = img.read(1500)

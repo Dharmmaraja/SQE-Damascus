@@ -64,7 +64,7 @@ def nli_url():
     """
     The config file for URLS contains sites of interest to my research
     """
-    urls = config_item('url.ini', 'URLS')
+    urls = config_item('urls.ini', 'URLS')
     return urls['nli']
 
 def img_db():
