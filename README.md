@@ -18,7 +18,7 @@ This repository contains data and information related to the work of the Damascu
 
 * Tucker, James M., "Material Philology and Digital Editions: Charting a Way Forward?" Delivered at Haifa University on October 8, 2018. Accessible online: https://www.academia.edu/s/2bcdef8bd9/material-philology-and-digital-editions-charting-a-way-forward
 * Tucker, James M. “What is the Text, Work, and Composition of Serekh ha-Yaḥad?” Presented at the _International Society of Biblical Literature_, Helsinki, Finland, July 30th – August 3rd, 2018.
-* Tucker, James M. “A Response to Hugo Lundhaug and Eibert Tigchelaar: On the Materiality of Nag Hammadi and Dead Sea Scrolls” Presenting at _The Dead Sea Scrolls and the Nag Hammadi Codices_, Berlin, Germany, July 20–22, 2018.
+* Tucker, James M. “A Response to Hugo Lundhaug and Eibert Tigchelaar: On the Materiality of Nag Hammadi and Dead Sea Scrolls” Presented at _The Dead Sea Scrolls and the Nag Hammadi Codices_, Berlin, Germany, July 20–22, 2018.
 * Tucker, James M. “The Law and Theology of the Covenant Renewal Ceremony of the Qumran Community Rule (1QS)” Presented at _Neutestamentlichen Kolloquiums_, Evangelisch-Theologische Fakultät Abteilung für neutestamentliche Theologie, München, October 10, 2017.
 * Tucker, James M. “Reconsidering 4Q256 frags. 5a-b (4QSerekh ha-Yaḥad<sup>b</sup>): A New Reading and its Implications for Understanding the Literary Growth of 1QS” Presented at the 9th _International Organization for Qumran Studies_, Leuven, Belgium, July 17–20, 2016.
 
