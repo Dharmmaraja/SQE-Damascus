@@ -16,6 +16,7 @@ This repository contains data and information related to the work of the Damascu
 
 ### Lectures
 
+* Tucker, James M., "On the Absence of the Teacher of Righteousness in the Rule of the Community," Presenting at the 10<sup>th</sup> _International Organization for Qumran Studies_, Aberdeen, Scotland, August 4–8, 2019.
 * Tucker, James M., "Material Philology and Digital Editions: Charting a Way Forward?" Delivered at Haifa University on October 8, 2018. Accessible online: https://www.academia.edu/s/2bcdef8bd9/material-philology-and-digital-editions-charting-a-way-forward
 * Tucker, James M. “What is the Text, Work, and Composition of Serekh ha-Yaḥad?” Presented at the _International Society of Biblical Literature_, Helsinki, Finland, July 30th – August 3rd, 2018.
 * Tucker, James M. “A Response to Hugo Lundhaug and Eibert Tigchelaar: On the Materiality of Nag Hammadi and Dead Sea Scrolls” Presented at _The Dead Sea Scrolls and the Nag Hammadi Codices_, Berlin, Germany, July 20–22, 2018.
