@@ -1,29 +1,29 @@
-# On the Data Structure of a Digital Editions of the Judean Desert
+# The Damascus Scrolls (מגילות דמשק)
 
-## The Role of Images in a Digital Edition
+## Qumran Scrolls
 
-### Palestine Archeaological Museum (PAM)
+### 4Q266 (4QD<sup>a</sup>)
 
-### Israel Antiquities Authority (IAA-Images)
+### 4Q267 (4QD<sup>b</sup>)
 
-### Additional Images
+### 4Q268 (4QD<sup>c</sup>)
 
-## Collating Evidence of Artefactual Remains
+### 4Q269 (4QD<sup>d</sup>)
 
-### Ready …, Set …, Tag and Link
+### 4Q270 (4QD<sup>e</sup>)
 
-### Run …
+### 4Q271 (4QD<sup>f</sup>)
 
-## Transcriptions: Interpretation of Text
+### 4Q272 (4QD<sup>g</sup>)
 
-## Fragments: Interpretation of Material
+### 4Q273 (4QD<sup>h</sup>)
 
-### On the Role of the Computer in Digital Editions
+### 5Q12 (5QD)
 
-### Modelling the Scroll in 2D Reconstructions Environments
+### 6Q15 (6QD)
 
-### Modelling the Scroll in 3D Reconstruction Environments
+## Cairo Genizah Codices
 
-## Putting it All Together: Text and Material as Evidence of a Scroll
+## CD A (<a href="https://cudl.lib.cam.ac.uk/view/MS-TS-00010-K-00006/1">T-S 10 K6</a>)
 
-## Conclusions
+## CD B (<a href="https://cudl.lib.cam.ac.uk/view/MS-TS-00016-00311/1">T-S 16.311</a>)
