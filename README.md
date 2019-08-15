@@ -1,10 +1,10 @@
-# Scripta Qumranica Electronica: Damascus Edition
+# Critical Edition of the Damascus Scrolls (מגילות דמשק)
 
-This repository contains data and information related to the work of the Damascus Edition as conducted in the project of [Scripta Qumranica Electronica](http://gepris.dfg.de/gepris/projekt/282601852) (project number: 282601852)
+This repository contains data and information related to the work of the Damascus Edition. The work of this edition is funded by [Scripta Qumranica Electronica](http://gepris.dfg.de/gepris/projekt/282601852)
 
 ## Principal Editors of the Damascus Edition
 
-* [James M. Tucker](https://utoronto.academia.edu/JamesTucker), PhD (cand), University of Toronto // Georg-August-Universität Göttingen
+* [James M. Tucker](https://utoronto.academia.edu/JamesTucker), PhD (cand), University of Toronto / Wissenschaftlicher Mitarbeiter Georg-August-Universität Göttingen
 * Dr. Peter Porzig, Georg-August-Universität Göttingen
 
 ## Publications and Information Related to Damascus Editorial Work
@@ -22,7 +22,6 @@ This repository contains data and information related to the work of the Damascu
 * Tucker, James M. “A Response to Hugo Lundhaug and Eibert Tigchelaar: On the Materiality of Nag Hammadi and Dead Sea Scrolls” Presented at _The Dead Sea Scrolls and the Nag Hammadi Codices_, Berlin, Germany, July 20–22, 2018.
 * Tucker, James M. “The Law and Theology of the Covenant Renewal Ceremony of the Qumran Community Rule (1QS)” Presented at _Neutestamentlichen Kolloquiums_, Evangelisch-Theologische Fakultät Abteilung für neutestamentliche Theologie, München, October 10, 2017.
 * Tucker, James M. “Reconsidering 4Q256 frags. 5a-b (4QSerekh ha-Yaḥad<sup>b</sup>): A New Reading and its Implications for Understanding the Literary Growth of 1QS” Presented at the 9th _International Organization for Qumran Studies_, Leuven, Belgium, July 17–20, 2016.
-
 
 ### Editorial Reports
 
