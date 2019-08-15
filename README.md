@@ -4,7 +4,7 @@ This repository contains data and information related to the work of the Damascu
 
 ## Principal Editors of the Damascus Edition
 
-* [James M. Tucker](https://utoronto.academia.edu/JamesTucker), PhD (cand), University of Toronto / Wissenschaftlicher Mitarbeiter Georg-August-Universität Göttingen
+* [James M. Tucker](https://utoronto.academia.edu/JamesTucker), PhD (cand), University of Toronto / Wissenschaftlicher Mitarbeiter, Georg-August-Universität Göttingen
 * Dr. Peter Porzig, Georg-August-Universität Göttingen
 
 ## Publications and Information Related to Damascus Editorial Work
@@ -16,8 +16,8 @@ This repository contains data and information related to the work of the Damascu
 
 ### Presentations
 
-* Tucker, James M., "On the Absence of the Teacher of Righteousness in the Rule of the Community," Presenting at the 10<sup>th</sup> _International Organization for Qumran Studies_, Aberdeen, Scotland, August 4–8, 2019.
-* Tucker, James M., "Material Philology and Digital Editions: Charting a Way Forward?" Delivered at Haifa University on October 8, 2018. Accessible online: https://www.academia.edu/s/2bcdef8bd9/material-philology-and-digital-editions-charting-a-way-forward
+* Tucker, James M., "On the Absence of the Teacher of Righteousness in the Rule of the Community," Presented at the 10<sup>th</sup> _International Organization for Qumran Studies_, Aberdeen, Scotland, August 4–8, 2019.
+* Tucker, James M., "Material Philology and Digital Editions: Charting a Way Forward?" Presented at Haifa University on October 8, 2018. Accessible online: https://www.academia.edu/s/2bcdef8bd9/material-philology-and-digital-editions-charting-a-way-forward
 * Tucker, James M. “What is the Text, Work, and Composition of Serekh ha-Yaḥad?” Presented at the _International Society of Biblical Literature_, Helsinki, Finland, July 30th – August 3rd, 2018.
 * Tucker, James M. “A Response to Hugo Lundhaug and Eibert Tigchelaar: On the Materiality of Nag Hammadi and Dead Sea Scrolls” Presented at _The Dead Sea Scrolls and the Nag Hammadi Codices_, Berlin, Germany, July 20–22, 2018.
 * Tucker, James M. “The Law and Theology of the Covenant Renewal Ceremony of the Qumran Community Rule (1QS)” Presented at _Neutestamentlichen Kolloquiums_, Evangelisch-Theologische Fakultät Abteilung für neutestamentliche Theologie, München, October 10, 2017.
