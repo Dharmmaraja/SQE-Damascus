@@ -1,4 +1,4 @@
-# The Artefacts of the Damascus Scrolls (מגילות דמשק) and Codices
+# Overview of the Damascus Scrolls (מגילות דמשק) and Codices
 
 ## Qumran Scrolls
 
