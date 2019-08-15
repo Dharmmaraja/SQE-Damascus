@@ -4,7 +4,7 @@
 
 Description is forthcoming
 
-## Material According to DJD
+## Material Cross Indexed between DJD and SQE
 
 | id    | sigla_id  | biblio_id | DJD Siglum | sigla_id | SQE Siglum |
 | :---:     | :---:     |   :---:   | :---: | :----: | :---: |
@@ -125,7 +125,3 @@ Description is forthcoming
 | 1345      | 457       | 17       | Frg. 73 |
 | 1346      | 457       | 17       | Frg. 74 |
 | 1347      | 457       | 17       | Frg. 75 |
-
-## Material According to SQE
-
-Forthcoming
