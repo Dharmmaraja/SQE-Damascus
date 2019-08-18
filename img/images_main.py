@@ -9,7 +9,6 @@ import pandas as pd
 from config import nli_url
 import re
 import os
-import logging
     
 
 def main(args):

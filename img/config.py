@@ -1,6 +1,5 @@
 from configparser import ConfigParser
 
-
 def config_item(filename, section):
     """ 
     Create a configuration and export PATH
@@ -28,8 +27,7 @@ def config_qumrandse(filename='database.ini', section='damascus'):
     """
     db_path = config_item('database.ini', 'damascus')
     return db_path
-
-        
+ 
 def config_qwb():
     """
     Establish the configuration to the Critical Editions of Second Temple Texts database
