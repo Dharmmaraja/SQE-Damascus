@@ -19,7 +19,7 @@ use File::Path qw(make_path);
 use Image::ExifTool;
 
 print 'Starting:'  . "\n";
-my $image_file_type = "jpg"; #Change this to search for other file types, like tiff
+my $image_file_type = "tif"; #Change this to search for other file types, like tiff
 
 my $dir = $ARGV[0] ? $ARGV[0] : "";
 my $outdir = $ARGV[1] ? $ARGV[1] : $dir . "ptif/";

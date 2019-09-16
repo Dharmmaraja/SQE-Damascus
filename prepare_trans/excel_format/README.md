@@ -13,7 +13,7 @@ While it is feasible to create a web based front-end to facilitate the process o
 2. The Excel file ensures data accuracy at several levels, thus enforcing best philological practices;
 3. Processing data in an Excel format is extensively supported in languages such as Perl, Python, and JavaScript.
 
-The following information structure facilitates a careful analysis of ancient artefacts, either lapidary and/or non-lapidary and in whatever language.
+The following information structure facilitates a careful analysis of ancient fragments, either lapidary and/or non-lapidary and in whatever language.
 
 ## Create a Notebook
 
@@ -23,7 +23,7 @@ The [`create_trans.py`](create_excel.py) script generates a working notebook. To
 2. frag_id
 3. roi.csv
 
-The `scroll_id` is any id you assign to the reconstruction of an assortment of artefacts so as to reconstruct a scroll; thus, it is relative to whatever id you decide. What is more important for the script, however, is the `roi.csv`. A `roi.csv` file designates Regions of Interest (`roi`) on an image. This method was discussed by James M. Tucker some years ago in two different conference presentations.The lecture from one of these conferences is available [here](https://www.academia.edu/7290280/Digital_Editions_of_the_Scrolls_and_Fragments_of_the_Judaean_Desert_Preliminary_Thoughts). The `roi.csv` can be generated from either manual tagging of an artefact and/or by Computer Vision tools. Given the complexity and fragmentary status of the Judaean Desert fragments, both manual and computer vision tools are necessary (see below for further information about `roi.csv`). Lastly, `frag_id` is also a relative designation.
+The `scroll_id` is any id you assign to the reconstruction of an assortment of fragments so as to reconstruct a scroll; thus, it is relative to whatever id you decide. What is more important for the script, however, is the `roi.csv`. A `roi.csv` file designates Regions of Interest (`roi`) on an image. This method was discussed by James M. Tucker some years ago in two different conference presentations. The lecture from one of these conferences is available [here](https://www.academia.edu/7290280/Digital_Editions_of_the_Scrolls_and_Fragments_of_the_Judaean_Desert_Preliminary_Thoughts). The `roi.csv` can be generated from either manual tagging of an artefact and/or by Computer Vision tools. Given the complexity and fragmentary status of the Judaean Desert fragments, both manual and computer vision tools are necessary (see below for further information about `roi.csv`). Lastly, `frag_id` is also a relative designation.
 
 ### Example
 
@@ -37,9 +37,9 @@ This script runs the create_excel.py with the three necessary arguments. The fir
 
 ## Structure of the Notebook
 
-The notebook is contains three worksheets: `CHARs`, `SIGNs`, `Sub_Frags`.
+The notebook is contains three worksheets: `CHARs`, `SIGNs`, `Frags`.
 
-The rationale to make three worksheets within one notebook is as follows: A digtial edition is fundamentally an "[interpretation of ancient media into new media](https://www.academia.edu/37560923/Material_Philology_and_Digital_Editions_Charting_a_Way_Forward)". Thus, any digital edition today is fundamentally built around high-resolution images of ancient artefacts. To begin the process of making an edition, one needs to annotate the image with `regions of interest` (`ROI`s). `ROI`s are of great utility for clearly annotating what one observes, whether it is extant ink, holes made by larvae, or even subfragments on the Israel Antiquities Authority (IAA) images. After an image has been annotated with `region of interests` (= `rois`), one then has to provide a definition of aforedesignated `ROI`s. Once the specifications of the `rois` are made, it is no longer necessary to have the segmentation information in the foreground—yet it must be easily editable. Thus, the `ROI` specifications are placed in the `SIGNs` worksheet, and then the focus shifts to the `CHARs` workheet. In the `CHAR`s worksheet, each ROI—apart from subfragments—is annotated (defined) as to its interpretation. For the final worksheet, `Sub_Frags`, this sheet holds the `ROI`s of any image whereby there are more than one fragment (especially when the PAM images can demonstrate how successive editors made joins throughout the early years of Qumran Research).
+The rationale to make three worksheets within one notebook is as follows: A digtial edition is fundamentally an "[interpretation of ancient media translated into different media](https://www.academia.edu/37560923/Material_Philology_and_Digital_Editions_Charting_a_Way_Forward)". Thus, any digital edition today is fundamentally built around high-resolution images of ancient artefacts. To begin the process of making an edition, one needs to annotate the image with `regions of interest` (`ROI`s). `ROI`s are of great utility for clearly annotating what one observes, whether it is extant ink, holes made by larvae, or even subfragments on the Israel Antiquities Authority (IAA) images. After an image has been annotated with `region of interests` (= `rois`), one then has to provide a definition of aforedesignated `ROI`s. Once the specifications of the `rois` are made, it is no longer necessary to have the segmentation information in the foreground—yet it must be easily editable. Thus, the `ROI` specifications are placed in the `SIGNs` worksheet, and then the focus shifts to the `CHARs` workheet. In the `CHAR`s worksheet, each ROI—apart from subfragments—is annotated (defined) as to its interpretation. For the final worksheet, `Sub_Frags`, this sheet holds the `ROI`s of any image whereby there are more than one fragment (especially when the PAM images can demonstrate how successive editors made joins throughout the early years of Qumran Research).
 
 Each worksheet is hereby explained in terms of their definitions and datatypes:
 
