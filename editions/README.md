@@ -1,4 +1,4 @@
-# Overview of the Damascus Scrolls (מגילות דמשק) and Codices
+# Overview of the Damascus Scrolls (מגילות דמשק) and Codices by James M. Tucker
 
 ## Qumran Scrolls
 
@@ -28,11 +28,13 @@
 
 ### CD B (<a href="https://cudl.lib.cam.ac.uk/view/MS-TS-00016-00311/1">T-S 16.311</a>)
 
-
 ## A Chronological Bibliography (Editions, Translations, and Textual Studies)
 
 ### Editions
 
+* Schechter, Solomon. <a href="https://ia600404.us.archive.org/33/items/SchechterFragmentsOfAZadokiteWork1910/Schechter-Fragments-of-a-Zadokite-work-1910.pdf">_Documents of Jewish Sectaries_</a> Edited from Hebrew Mss. in the Cairo Genizah Collection Now in the Possession of the University Library, Cambridge. Vol. 1. Cambridge: University Press, 1910.
+
+
 ### Translations
 
-### Textual Studies
+## Textual Studies
