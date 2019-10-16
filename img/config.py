@@ -71,3 +71,10 @@ def img_db():
     """
     dbs = config_item('database.ini', 'DB')
     return dbs['img']
+
+def kauf_url():
+    """
+    The config for the David Kaufmann Manuscript
+    """
+    urls = config_item('urls.ini', 'URLS')
+    return urls['kaufa50']
