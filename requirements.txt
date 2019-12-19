@@ -21,6 +21,7 @@ cymem==2.0.2
 cytoolz==0.9.0.1
 decorator==4.3.0
 defusedxml==0.5.0
+Deprecated==1.2.7
 dill==0.2.9
 entrypoints==0.2.3
 ExifRead==2.1.2
@@ -56,6 +57,7 @@ jupyterlab-server==0.2.0
 kiwisolver==1.0.1
 lazy-object-proxy==1.3.1
 lxml==4.2.5
+Markdown==3.1.1
 MarkupSafe==1.0
 matplotlib==2.2.3
 mccabe==0.6.1
@@ -88,16 +90,20 @@ pickleshare==0.7.4
 Pillow==5.2.0
 plac==0.9.6
 pluggy==0.7.1
+plumbum==1.6.8
 preshed==2.0.1
 prettytable==0.7.2
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
+psutil==5.6.7
 ptyprocess==0.6.0
 py==1.5.4
 py2neo==4.0.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
+PyGithub==1.44.1
 Pygments==2.2.0
+PyJWT==1.7.1
 pylint==2.1.1
 pyparsing==2.2.0
 pytest==3.7.1
@@ -112,6 +118,7 @@ qtconsole==4.4.1
 regex==2018.1.10
 requests==2.19.1
 rope==0.11.0
+rpyc==4.1.2
 rsa==3.4.2
 scikit-learn==0.19.2
 scipy==1.1.0
@@ -123,6 +130,7 @@ spacy==2.0.18
 statsmodels==0.9.0
 terminado==0.8.1
 testpath==0.3.1
+text-fabric==7.9.0
 thinc==6.12.1
 toml==0.10.0
 toolz==0.9.0
