@@ -8949,3 +8949,4 @@
 2019-10-10 10:40:38,218:DEBUG:http://kaufmann.mtak.hu:80 "GET /img/ms50-50pc/ms50-284r-large.jpg HTTP/1.1" 200 926705
 2019-10-10 10:40:38,370:DEBUG:http://kaufmann.mtak.hu:80 "GET /img/ms50-50pc/ms50-285r-large.jpg HTTP/1.1" 200 774344
 2019-10-10 10:40:39,238:DEBUG:http://kaufmann.mtak.hu:80 "GET /img/ms50-50pc/ms50-286r-large.jpg HTTP/1.1" 200 786630
+2019-12-19 17:37:38,770:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
