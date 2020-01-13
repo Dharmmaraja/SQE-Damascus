@@ -12,9 +12,7 @@ env/
 *.psd
 *.tif
 *.zip
+*.jpg
 
-#4Q266 Images
-editions/4Q266/iaa_images
-editions/4Q266/pam_images
-
+# Downloaded IAA Images
 img/plates/P*
