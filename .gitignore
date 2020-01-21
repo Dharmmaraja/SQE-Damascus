@@ -11,8 +11,11 @@ env/
 *.psb
 *.psd
 *.tif
-*.zip
 *.jpg
 
 # Downloaded IAA Images
 img/plates/P*
+
+# Documents
+*4Q51-Example.zip
+*chromedriver_mac64.zip
