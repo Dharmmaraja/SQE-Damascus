@@ -20,6 +20,10 @@ For more details, see the contents in folder <a href="4Q266/">4Q266</a> above.
 
 ### 4Q273 (<a href="https://www.deadseascrolls.org.il/explore-the-archive/search#q='4Q273'">4QD<sup>h</sup></a>)
 
+### 4Q587
+
+A new fragment of the Damascus Document. See preliminary report [here](/editions/4Q587).
+
 ### 5Q12 (<a href="https://www.deadseascrolls.org.il/explore-the-archive/search#q='5Q12'">5QD</a>)
 
 ### 6Q15 (<a href="https://www.deadseascrolls.org.il/explore-the-archive/search#q='6Q15'">6QD</a>)
