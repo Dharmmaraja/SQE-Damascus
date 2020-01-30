@@ -32,6 +32,7 @@ def get_source(scroll):
 
     # Get sh-result-header.h2 to divide results by total (as of 10-04-2019; changed on 02-05-2019)
     refresh_times = soup.find("div", class_="c-search-page__status")
+    # print(refresh_times)
 
     ## Adjust wait time dependent on internet speed
     count = refresh_times.text.strip()
@@ -44,18 +45,19 @@ def get_source(scroll):
     elif int(times[1]) < 24:
         times[1] = 24
     
+
     refresh = (int(times[1]) / int(times[0]))
     x2load = str(refresh)
     print("Chrome will refresh " + x2load + " time(s).")
-    # print(refresh)
+    
     if refresh == 1:
         pass
     else:
         try:
             # load_more_link = browser.find_element_by_tag_name("c-search-page__load-more") #body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
-            load_more_link = browser.find_element_by_xpath(
-                "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"
-            )  # body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
+            load_more_link = browser.find_element_by_tag_name(
+                "c-search-page__load-more" 
+            ) # body > div.c-page.c-page--manuscript > div.c-page__content.u-no-padding > div.c-search-page > div.c-search-page__content > div.c-search-page__load-more-wrapper > button
             if load_more_link is None:
                 load_more_link = 12
         except:
@@ -68,8 +70,9 @@ def get_source(scroll):
                     print("Refreshing html…")
                 except Exception:
                     pass
-    browser.implicitly_wait(7)
+    browser.implicitly_wait(3)
     html_source = browser.page_source
+    # print(html_source)
     browser.close()
 
     with open("leon_levy/" + scroll + ".html", "w") as htm:

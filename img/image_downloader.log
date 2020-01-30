@@ -14367,3 +14367,358 @@
 2020-01-17 12:35:21,960:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/PX107-Fg004-V-C01-R01-D12072015-T111557-OO_026.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
 2020-01-17 12:35:24,267:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
 2020-01-17 12:35:32,756:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/PX107-Fg004-V-C01-R01-D12072015-T111611-OO_028.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:26:48,256:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:26:50,098:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg000-R-D05082014-T000136.tif/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:26:50,780:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:27:03,337:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-R-C01-R01-D08052014-T104246-LR445_PSC.tif/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:27:15,149:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:27:32,738:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-R-C01-R01-D08052014-T104349-LR924_012.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:27:34,392:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:27:48,598:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-R-C01-R01-D08052014-T104508-RLIR_026.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:27:50,620:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:28:09,050:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-R-C01-R01-D08052014-T104528-RRIR_028.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:28:10,782:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:28:23,210:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-V-C01-R01-D08052014-T104633-LR445_PSC.tif/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:28:26,006:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:28:42,290:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-V-C01-R01-D08052014-T104736-LR924_012.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:28:44,504:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:28:59,584:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-V-C01-R01-D08052014-T104855-RLIR_026.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:29:01,786:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:29:19,925:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg002-V-C01-R01-D08052014-T104916-RRIR_028.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:29:22,077:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:29:34,790:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-R-C01-R01-D08052014-T105140-LR445_PSC.tif/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:29:37,426:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:29:57,565:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-R-C01-R01-D08052014-T105243-LR924_012.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:29:59,468:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:30:18,212:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-R-C01-R01-D08052014-T105402-RLIR_026.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:30:20,275:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:30:40,583:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-R-C01-R01-D08052014-T105422-RRIR_028.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:30:42,772:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:30:55,157:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-V-C01-R01-D08052014-T105535-LR445_PSC.tif/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:30:57,610:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:31:15,769:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-V-C01-R01-D08052014-T105637-LR924_012.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:31:17,450:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:31:32,303:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-V-C01-R01-D08052014-T105757-RLIR_026.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:31:34,301:DEBUG:Starting new HTTP connection (1): 192.114.7.208:8182
+2020-01-30 08:31:52,603:DEBUG:http://192.114.7.208:8182 "GET /iiif/2/P858-Fg003-V-C01-R01-D08052014-T105817-RRIR_028.jpg/full/pct:100/0/default.jpg HTTP/1.1" 200 None
+2020-01-30 08:57:09,067:DEBUG:POST http://127.0.0.1:58022/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 08:57:09,068:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58022
+2020-01-30 08:57:10,678:DEBUG:http://127.0.0.1:58022 "POST /session HTTP/1.1" 200 689
+2020-01-30 08:57:10,679:DEBUG:Finished Request
+2020-01-30 08:57:10,679:DEBUG:POST http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 08:57:12,386:DEBUG:http://127.0.0.1:58022 "POST /session/2c35aff3ff0c7f39f60b089950dc1443/url HTTP/1.1" 200 14
+2020-01-30 08:57:12,386:DEBUG:Finished Request
+2020-01-30 08:57:17,387:DEBUG:GET http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/source {}
+2020-01-30 08:57:17,399:DEBUG:http://127.0.0.1:58022 "GET /session/2c35aff3ff0c7f39f60b089950dc1443/source HTTP/1.1" 200 71434
+2020-01-30 08:57:17,402:DEBUG:Finished Request
+2020-01-30 08:57:17,432:DEBUG:POST http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/element {"using": "xpath", "value": "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 08:57:17,463:DEBUG:http://127.0.0.1:58022 "POST /session/2c35aff3ff0c7f39f60b089950dc1443/element HTTP/1.1" 200 88
+2020-01-30 08:57:17,464:DEBUG:Finished Request
+2020-01-30 08:57:17,464:DEBUG:POST http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/timeouts {"implicit": 7000}
+2020-01-30 08:57:17,465:DEBUG:http://127.0.0.1:58022 "POST /session/2c35aff3ff0c7f39f60b089950dc1443/timeouts HTTP/1.1" 200 14
+2020-01-30 08:57:17,465:DEBUG:Finished Request
+2020-01-30 08:57:17,465:DEBUG:GET http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/source {}
+2020-01-30 08:57:17,473:DEBUG:http://127.0.0.1:58022 "GET /session/2c35aff3ff0c7f39f60b089950dc1443/source HTTP/1.1" 200 71434
+2020-01-30 08:57:17,474:DEBUG:Finished Request
+2020-01-30 08:57:17,474:DEBUG:DELETE http://127.0.0.1:58022/session/2c35aff3ff0c7f39f60b089950dc1443/window {}
+2020-01-30 08:57:17,589:DEBUG:http://127.0.0.1:58022 "DELETE /session/2c35aff3ff0c7f39f60b089950dc1443/window HTTP/1.1" 200 12
+2020-01-30 08:57:17,589:DEBUG:Finished Request
+2020-01-30 08:59:22,941:DEBUG:POST http://127.0.0.1:58117/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 08:59:22,972:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58117
+2020-01-30 08:59:24,416:DEBUG:http://127.0.0.1:58117 "POST /session HTTP/1.1" 200 689
+2020-01-30 08:59:24,416:DEBUG:Finished Request
+2020-01-30 08:59:24,417:DEBUG:POST http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 08:59:25,223:DEBUG:http://127.0.0.1:58117 "POST /session/a051cd9c5ec81f635aa93633f64179b9/url HTTP/1.1" 200 14
+2020-01-30 08:59:25,223:DEBUG:Finished Request
+2020-01-30 08:59:30,229:DEBUG:GET http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/source {}
+2020-01-30 08:59:30,243:DEBUG:http://127.0.0.1:58117 "GET /session/a051cd9c5ec81f635aa93633f64179b9/source HTTP/1.1" 200 71438
+2020-01-30 08:59:30,244:DEBUG:Finished Request
+2020-01-30 08:59:30,275:DEBUG:POST http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/element {"using": "xpath", "value": "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 08:59:30,285:DEBUG:http://127.0.0.1:58117 "POST /session/a051cd9c5ec81f635aa93633f64179b9/element HTTP/1.1" 200 88
+2020-01-30 08:59:30,286:DEBUG:Finished Request
+2020-01-30 08:59:30,286:DEBUG:POST http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/timeouts {"implicit": 7000}
+2020-01-30 08:59:30,287:DEBUG:http://127.0.0.1:58117 "POST /session/a051cd9c5ec81f635aa93633f64179b9/timeouts HTTP/1.1" 200 14
+2020-01-30 08:59:30,287:DEBUG:Finished Request
+2020-01-30 08:59:30,287:DEBUG:GET http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/source {}
+2020-01-30 08:59:30,295:DEBUG:http://127.0.0.1:58117 "GET /session/a051cd9c5ec81f635aa93633f64179b9/source HTTP/1.1" 200 71438
+2020-01-30 08:59:30,296:DEBUG:Finished Request
+2020-01-30 08:59:30,296:DEBUG:DELETE http://127.0.0.1:58117/session/a051cd9c5ec81f635aa93633f64179b9/window {}
+2020-01-30 08:59:30,415:DEBUG:http://127.0.0.1:58117 "DELETE /session/a051cd9c5ec81f635aa93633f64179b9/window HTTP/1.1" 200 12
+2020-01-30 08:59:30,415:DEBUG:Finished Request
+2020-01-30 08:59:43,157:DEBUG:POST http://127.0.0.1:58173/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 08:59:43,157:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58173
+2020-01-30 08:59:44,484:DEBUG:http://127.0.0.1:58173 "POST /session HTTP/1.1" 200 689
+2020-01-30 08:59:44,484:DEBUG:Finished Request
+2020-01-30 08:59:44,485:DEBUG:POST http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 08:59:45,245:DEBUG:http://127.0.0.1:58173 "POST /session/f6f99faa265c88463107bf881fdec7cf/url HTTP/1.1" 200 14
+2020-01-30 08:59:45,245:DEBUG:Finished Request
+2020-01-30 08:59:50,246:DEBUG:GET http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/source {}
+2020-01-30 08:59:50,259:DEBUG:http://127.0.0.1:58173 "GET /session/f6f99faa265c88463107bf881fdec7cf/source HTTP/1.1" 200 71436
+2020-01-30 08:59:50,260:DEBUG:Finished Request
+2020-01-30 08:59:50,292:DEBUG:POST http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/element {"using": "xpath", "value": "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 08:59:50,303:DEBUG:http://127.0.0.1:58173 "POST /session/f6f99faa265c88463107bf881fdec7cf/element HTTP/1.1" 200 88
+2020-01-30 08:59:50,304:DEBUG:Finished Request
+2020-01-30 08:59:50,304:DEBUG:POST http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/timeouts {"implicit": 7000}
+2020-01-30 08:59:50,305:DEBUG:http://127.0.0.1:58173 "POST /session/f6f99faa265c88463107bf881fdec7cf/timeouts HTTP/1.1" 200 14
+2020-01-30 08:59:50,305:DEBUG:Finished Request
+2020-01-30 08:59:50,305:DEBUG:GET http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/source {}
+2020-01-30 08:59:50,313:DEBUG:http://127.0.0.1:58173 "GET /session/f6f99faa265c88463107bf881fdec7cf/source HTTP/1.1" 200 71436
+2020-01-30 08:59:50,315:DEBUG:Finished Request
+2020-01-30 08:59:50,315:DEBUG:DELETE http://127.0.0.1:58173/session/f6f99faa265c88463107bf881fdec7cf/window {}
+2020-01-30 08:59:50,446:DEBUG:http://127.0.0.1:58173 "DELETE /session/f6f99faa265c88463107bf881fdec7cf/window HTTP/1.1" 200 12
+2020-01-30 08:59:50,447:DEBUG:Finished Request
+2020-01-30 09:00:50,568:DEBUG:POST http://127.0.0.1:58234/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:00:50,569:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58234
+2020-01-30 09:00:51,980:DEBUG:http://127.0.0.1:58234 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:00:51,981:DEBUG:Finished Request
+2020-01-30 09:00:51,981:DEBUG:POST http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:00:52,785:DEBUG:http://127.0.0.1:58234 "POST /session/028dcc45210c6ddc3fa186565bc7273c/url HTTP/1.1" 200 14
+2020-01-30 09:00:52,785:DEBUG:Finished Request
+2020-01-30 09:00:57,786:DEBUG:GET http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/source {}
+2020-01-30 09:00:57,800:DEBUG:http://127.0.0.1:58234 "GET /session/028dcc45210c6ddc3fa186565bc7273c/source HTTP/1.1" 200 71440
+2020-01-30 09:00:57,801:DEBUG:Finished Request
+2020-01-30 09:00:57,831:DEBUG:POST http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/element {"using": "xpath", "value": "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:00:57,841:DEBUG:http://127.0.0.1:58234 "POST /session/028dcc45210c6ddc3fa186565bc7273c/element HTTP/1.1" 200 88
+2020-01-30 09:00:57,842:DEBUG:Finished Request
+2020-01-30 09:00:57,842:DEBUG:POST http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/timeouts {"implicit": 7000}
+2020-01-30 09:00:57,843:DEBUG:http://127.0.0.1:58234 "POST /session/028dcc45210c6ddc3fa186565bc7273c/timeouts HTTP/1.1" 200 14
+2020-01-30 09:00:57,843:DEBUG:Finished Request
+2020-01-30 09:00:57,843:DEBUG:GET http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/source {}
+2020-01-30 09:00:57,851:DEBUG:http://127.0.0.1:58234 "GET /session/028dcc45210c6ddc3fa186565bc7273c/source HTTP/1.1" 200 71440
+2020-01-30 09:00:57,853:DEBUG:Finished Request
+2020-01-30 09:00:57,853:DEBUG:DELETE http://127.0.0.1:58234/session/028dcc45210c6ddc3fa186565bc7273c/window {}
+2020-01-30 09:00:57,970:DEBUG:http://127.0.0.1:58234 "DELETE /session/028dcc45210c6ddc3fa186565bc7273c/window HTTP/1.1" 200 12
+2020-01-30 09:00:57,971:DEBUG:Finished Request
+2020-01-30 09:01:33,431:DEBUG:POST http://127.0.0.1:58292/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:01:33,432:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58292
+2020-01-30 09:01:34,826:DEBUG:http://127.0.0.1:58292 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:01:34,827:DEBUG:Finished Request
+2020-01-30 09:01:34,827:DEBUG:POST http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:01:35,743:DEBUG:http://127.0.0.1:58292 "POST /session/3cec4dae56967797efb153cce68b893e/url HTTP/1.1" 200 14
+2020-01-30 09:01:35,744:DEBUG:Finished Request
+2020-01-30 09:01:40,745:DEBUG:GET http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/source {}
+2020-01-30 09:01:40,759:DEBUG:http://127.0.0.1:58292 "GET /session/3cec4dae56967797efb153cce68b893e/source HTTP/1.1" 200 71436
+2020-01-30 09:01:40,760:DEBUG:Finished Request
+2020-01-30 09:01:40,790:DEBUG:POST http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/element {"using": "xpath", "value": "/html/body/div[1]/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:01:40,800:DEBUG:http://127.0.0.1:58292 "POST /session/3cec4dae56967797efb153cce68b893e/element HTTP/1.1" 200 88
+2020-01-30 09:01:40,801:DEBUG:Finished Request
+2020-01-30 09:01:40,801:DEBUG:POST http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/timeouts {"implicit": 7000}
+2020-01-30 09:01:40,802:DEBUG:http://127.0.0.1:58292 "POST /session/3cec4dae56967797efb153cce68b893e/timeouts HTTP/1.1" 200 14
+2020-01-30 09:01:40,802:DEBUG:Finished Request
+2020-01-30 09:01:40,802:DEBUG:GET http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/source {}
+2020-01-30 09:01:40,809:DEBUG:http://127.0.0.1:58292 "GET /session/3cec4dae56967797efb153cce68b893e/source HTTP/1.1" 200 71436
+2020-01-30 09:01:40,811:DEBUG:Finished Request
+2020-01-30 09:01:40,811:DEBUG:DELETE http://127.0.0.1:58292/session/3cec4dae56967797efb153cce68b893e/window {}
+2020-01-30 09:01:40,927:DEBUG:http://127.0.0.1:58292 "DELETE /session/3cec4dae56967797efb153cce68b893e/window HTTP/1.1" 200 12
+2020-01-30 09:01:40,927:DEBUG:Finished Request
+2020-01-30 09:03:04,453:DEBUG:POST http://127.0.0.1:58615/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:03:04,454:DEBUG:Starting new HTTP connection (1): 127.0.0.1:58615
+2020-01-30 09:03:05,808:DEBUG:http://127.0.0.1:58615 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:03:05,808:DEBUG:Finished Request
+2020-01-30 09:03:05,808:DEBUG:POST http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:03:07,007:DEBUG:http://127.0.0.1:58615 "POST /session/4b735141ab9f32d9381b5d06e4a7d51f/url HTTP/1.1" 200 14
+2020-01-30 09:03:07,007:DEBUG:Finished Request
+2020-01-30 09:03:12,011:DEBUG:GET http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/source {}
+2020-01-30 09:03:12,025:DEBUG:http://127.0.0.1:58615 "GET /session/4b735141ab9f32d9381b5d06e4a7d51f/source HTTP/1.1" 200 71440
+2020-01-30 09:03:12,026:DEBUG:Finished Request
+2020-01-30 09:03:12,056:DEBUG:POST http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:03:12,067:DEBUG:http://127.0.0.1:58615 "POST /session/4b735141ab9f32d9381b5d06e4a7d51f/element HTTP/1.1" 200 88
+2020-01-30 09:03:12,067:DEBUG:Finished Request
+2020-01-30 09:03:12,067:DEBUG:POST http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/timeouts {"implicit": 7000}
+2020-01-30 09:03:12,068:DEBUG:http://127.0.0.1:58615 "POST /session/4b735141ab9f32d9381b5d06e4a7d51f/timeouts HTTP/1.1" 200 14
+2020-01-30 09:03:12,069:DEBUG:Finished Request
+2020-01-30 09:03:12,069:DEBUG:GET http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/source {}
+2020-01-30 09:03:12,077:DEBUG:http://127.0.0.1:58615 "GET /session/4b735141ab9f32d9381b5d06e4a7d51f/source HTTP/1.1" 200 71440
+2020-01-30 09:03:12,078:DEBUG:Finished Request
+2020-01-30 09:03:12,078:DEBUG:DELETE http://127.0.0.1:58615/session/4b735141ab9f32d9381b5d06e4a7d51f/window {}
+2020-01-30 09:03:12,194:DEBUG:http://127.0.0.1:58615 "DELETE /session/4b735141ab9f32d9381b5d06e4a7d51f/window HTTP/1.1" 200 12
+2020-01-30 09:03:12,194:DEBUG:Finished Request
+2020-01-30 09:04:38,882:DEBUG:POST http://127.0.0.1:59073/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:04:38,883:DEBUG:Starting new HTTP connection (1): 127.0.0.1:59073
+2020-01-30 09:04:40,269:DEBUG:http://127.0.0.1:59073 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:04:40,270:DEBUG:Finished Request
+2020-01-30 09:04:40,270:DEBUG:POST http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:04:41,069:DEBUG:http://127.0.0.1:59073 "POST /session/6e09fa25cfde16a2c79ace5c7a6401d2/url HTTP/1.1" 200 14
+2020-01-30 09:04:41,070:DEBUG:Finished Request
+2020-01-30 09:04:46,071:DEBUG:GET http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/source {}
+2020-01-30 09:04:46,085:DEBUG:http://127.0.0.1:59073 "GET /session/6e09fa25cfde16a2c79ace5c7a6401d2/source HTTP/1.1" 200 71438
+2020-01-30 09:04:46,086:DEBUG:Finished Request
+2020-01-30 09:04:46,117:DEBUG:POST http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:04:46,128:DEBUG:http://127.0.0.1:59073 "POST /session/6e09fa25cfde16a2c79ace5c7a6401d2/element HTTP/1.1" 200 88
+2020-01-30 09:04:46,129:DEBUG:Finished Request
+2020-01-30 09:04:46,129:DEBUG:POST http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/timeouts {"implicit": 7000}
+2020-01-30 09:04:46,129:DEBUG:http://127.0.0.1:59073 "POST /session/6e09fa25cfde16a2c79ace5c7a6401d2/timeouts HTTP/1.1" 200 14
+2020-01-30 09:04:46,130:DEBUG:Finished Request
+2020-01-30 09:04:46,130:DEBUG:GET http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/source {}
+2020-01-30 09:04:46,138:DEBUG:http://127.0.0.1:59073 "GET /session/6e09fa25cfde16a2c79ace5c7a6401d2/source HTTP/1.1" 200 71438
+2020-01-30 09:04:46,139:DEBUG:Finished Request
+2020-01-30 09:04:46,139:DEBUG:DELETE http://127.0.0.1:59073/session/6e09fa25cfde16a2c79ace5c7a6401d2/window {}
+2020-01-30 09:04:46,257:DEBUG:http://127.0.0.1:59073 "DELETE /session/6e09fa25cfde16a2c79ace5c7a6401d2/window HTTP/1.1" 200 12
+2020-01-30 09:04:46,257:DEBUG:Finished Request
+2020-01-30 09:05:20,373:DEBUG:POST http://127.0.0.1:59303/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:05:20,374:DEBUG:Starting new HTTP connection (1): 127.0.0.1:59303
+2020-01-30 09:05:21,767:DEBUG:http://127.0.0.1:59303 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:05:21,767:DEBUG:Finished Request
+2020-01-30 09:05:21,768:DEBUG:POST http://127.0.0.1:59303/session/49d9963e74f69fd75ac3cd5bf4bdcfd4/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:05:22,682:DEBUG:http://127.0.0.1:59303 "POST /session/49d9963e74f69fd75ac3cd5bf4bdcfd4/url HTTP/1.1" 200 14
+2020-01-30 09:05:22,682:DEBUG:Finished Request
+2020-01-30 09:05:27,684:DEBUG:GET http://127.0.0.1:59303/session/49d9963e74f69fd75ac3cd5bf4bdcfd4/source {}
+2020-01-30 09:05:27,699:DEBUG:http://127.0.0.1:59303 "GET /session/49d9963e74f69fd75ac3cd5bf4bdcfd4/source HTTP/1.1" 200 71436
+2020-01-30 09:05:27,700:DEBUG:Finished Request
+2020-01-30 09:05:27,731:DEBUG:POST http://127.0.0.1:59303/session/49d9963e74f69fd75ac3cd5bf4bdcfd4/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:05:27,742:DEBUG:http://127.0.0.1:59303 "POST /session/49d9963e74f69fd75ac3cd5bf4bdcfd4/element HTTP/1.1" 200 88
+2020-01-30 09:05:27,742:DEBUG:Finished Request
+2020-01-30 09:05:27,742:DEBUG:POST http://127.0.0.1:59303/session/49d9963e74f69fd75ac3cd5bf4bdcfd4/timeouts {"implicit": 7000}
+2020-01-30 09:05:27,743:DEBUG:http://127.0.0.1:59303 "POST /session/49d9963e74f69fd75ac3cd5bf4bdcfd4/timeouts HTTP/1.1" 200 14
+2020-01-30 09:05:27,743:DEBUG:Finished Request
+2020-01-30 09:05:27,743:DEBUG:GET http://127.0.0.1:59303/session/49d9963e74f69fd75ac3cd5bf4bdcfd4/source {}
+2020-01-30 09:05:27,751:DEBUG:http://127.0.0.1:59303 "GET /session/49d9963e74f69fd75ac3cd5bf4bdcfd4/source HTTP/1.1" 200 71436
+2020-01-30 09:05:27,753:DEBUG:Finished Request
+2020-01-30 09:05:48,036:DEBUG:POST http://127.0.0.1:59474/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:05:48,036:DEBUG:Starting new HTTP connection (1): 127.0.0.1:59474
+2020-01-30 09:05:49,427:DEBUG:http://127.0.0.1:59474 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:05:49,428:DEBUG:Finished Request
+2020-01-30 09:05:49,428:DEBUG:POST http://127.0.0.1:59474/session/0d6a04b00500a7259dcce86da832cecd/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:05:50,368:DEBUG:http://127.0.0.1:59474 "POST /session/0d6a04b00500a7259dcce86da832cecd/url HTTP/1.1" 200 14
+2020-01-30 09:05:50,368:DEBUG:Finished Request
+2020-01-30 09:05:55,371:DEBUG:GET http://127.0.0.1:59474/session/0d6a04b00500a7259dcce86da832cecd/source {}
+2020-01-30 09:05:55,385:DEBUG:http://127.0.0.1:59474 "GET /session/0d6a04b00500a7259dcce86da832cecd/source HTTP/1.1" 200 71436
+2020-01-30 09:05:55,387:DEBUG:Finished Request
+2020-01-30 09:05:55,417:DEBUG:POST http://127.0.0.1:59474/session/0d6a04b00500a7259dcce86da832cecd/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:05:55,428:DEBUG:http://127.0.0.1:59474 "POST /session/0d6a04b00500a7259dcce86da832cecd/element HTTP/1.1" 200 88
+2020-01-30 09:05:55,428:DEBUG:Finished Request
+2020-01-30 09:05:55,428:DEBUG:POST http://127.0.0.1:59474/session/0d6a04b00500a7259dcce86da832cecd/timeouts {"implicit": 7000}
+2020-01-30 09:05:55,429:DEBUG:http://127.0.0.1:59474 "POST /session/0d6a04b00500a7259dcce86da832cecd/timeouts HTTP/1.1" 200 14
+2020-01-30 09:05:55,429:DEBUG:Finished Request
+2020-01-30 09:05:55,429:DEBUG:GET http://127.0.0.1:59474/session/0d6a04b00500a7259dcce86da832cecd/source {}
+2020-01-30 09:05:55,437:DEBUG:http://127.0.0.1:59474 "GET /session/0d6a04b00500a7259dcce86da832cecd/source HTTP/1.1" 200 71436
+2020-01-30 09:05:55,439:DEBUG:Finished Request
+2020-01-30 09:11:50,255:DEBUG:POST http://127.0.0.1:61110/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:11:50,256:DEBUG:Starting new HTTP connection (1): 127.0.0.1:61110
+2020-01-30 09:11:51,663:DEBUG:http://127.0.0.1:61110 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:11:51,663:DEBUG:Finished Request
+2020-01-30 09:11:51,663:DEBUG:POST http://127.0.0.1:61110/session/c494942a0594b23d8149fe43123d94a8/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:11:52,907:DEBUG:http://127.0.0.1:61110 "POST /session/c494942a0594b23d8149fe43123d94a8/url HTTP/1.1" 200 14
+2020-01-30 09:11:52,907:DEBUG:Finished Request
+2020-01-30 09:11:57,912:DEBUG:GET http://127.0.0.1:61110/session/c494942a0594b23d8149fe43123d94a8/source {}
+2020-01-30 09:11:57,926:DEBUG:http://127.0.0.1:61110 "GET /session/c494942a0594b23d8149fe43123d94a8/source HTTP/1.1" 200 71436
+2020-01-30 09:11:57,927:DEBUG:Finished Request
+2020-01-30 09:11:57,957:DEBUG:POST http://127.0.0.1:61110/session/c494942a0594b23d8149fe43123d94a8/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:11:57,968:DEBUG:http://127.0.0.1:61110 "POST /session/c494942a0594b23d8149fe43123d94a8/element HTTP/1.1" 200 88
+2020-01-30 09:11:57,968:DEBUG:Finished Request
+2020-01-30 09:11:57,968:DEBUG:POST http://127.0.0.1:61110/session/c494942a0594b23d8149fe43123d94a8/timeouts {"implicit": 7000}
+2020-01-30 09:11:57,969:DEBUG:http://127.0.0.1:61110 "POST /session/c494942a0594b23d8149fe43123d94a8/timeouts HTTP/1.1" 200 14
+2020-01-30 09:11:57,969:DEBUG:Finished Request
+2020-01-30 09:11:57,969:DEBUG:GET http://127.0.0.1:61110/session/c494942a0594b23d8149fe43123d94a8/source {}
+2020-01-30 09:11:57,978:DEBUG:http://127.0.0.1:61110 "GET /session/c494942a0594b23d8149fe43123d94a8/source HTTP/1.1" 200 71436
+2020-01-30 09:11:57,979:DEBUG:Finished Request
+2020-01-30 09:13:08,002:DEBUG:POST http://127.0.0.1:61515/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:13:08,002:DEBUG:Starting new HTTP connection (1): 127.0.0.1:61515
+2020-01-30 09:13:09,395:DEBUG:http://127.0.0.1:61515 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:13:09,396:DEBUG:Finished Request
+2020-01-30 09:13:09,396:DEBUG:POST http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:13:10,861:DEBUG:http://127.0.0.1:61515 "POST /session/c1a0ed7464820f2c91e764a4374b2b95/url HTTP/1.1" 200 14
+2020-01-30 09:13:10,862:DEBUG:Finished Request
+2020-01-30 09:13:15,865:DEBUG:GET http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/source {}
+2020-01-30 09:13:15,876:DEBUG:http://127.0.0.1:61515 "GET /session/c1a0ed7464820f2c91e764a4374b2b95/source HTTP/1.1" 200 71458
+2020-01-30 09:13:15,878:DEBUG:Finished Request
+2020-01-30 09:13:15,908:DEBUG:POST http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:13:15,919:DEBUG:http://127.0.0.1:61515 "POST /session/c1a0ed7464820f2c91e764a4374b2b95/element HTTP/1.1" 200 88
+2020-01-30 09:13:15,919:DEBUG:Finished Request
+2020-01-30 09:13:15,919:DEBUG:POST http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/timeouts {"implicit": 7000}
+2020-01-30 09:13:15,920:DEBUG:http://127.0.0.1:61515 "POST /session/c1a0ed7464820f2c91e764a4374b2b95/timeouts HTTP/1.1" 200 14
+2020-01-30 09:13:15,920:DEBUG:Finished Request
+2020-01-30 09:13:15,920:DEBUG:GET http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/source {}
+2020-01-30 09:13:15,928:DEBUG:http://127.0.0.1:61515 "GET /session/c1a0ed7464820f2c91e764a4374b2b95/source HTTP/1.1" 200 71458
+2020-01-30 09:13:15,929:DEBUG:Finished Request
+2020-01-30 09:13:15,929:DEBUG:DELETE http://127.0.0.1:61515/session/c1a0ed7464820f2c91e764a4374b2b95/window {}
+2020-01-30 09:13:16,044:DEBUG:http://127.0.0.1:61515 "DELETE /session/c1a0ed7464820f2c91e764a4374b2b95/window HTTP/1.1" 200 12
+2020-01-30 09:13:16,044:DEBUG:Finished Request
+2020-01-30 09:15:09,645:DEBUG:POST http://127.0.0.1:62086/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:15:09,646:DEBUG:Starting new HTTP connection (1): 127.0.0.1:62086
+2020-01-30 09:15:11,099:DEBUG:http://127.0.0.1:62086 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:15:11,100:DEBUG:Finished Request
+2020-01-30 09:15:11,100:DEBUG:POST http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:15:12,902:DEBUG:http://127.0.0.1:62086 "POST /session/c364f1e043c0cee07b13b476d6483250/url HTTP/1.1" 200 14
+2020-01-30 09:15:12,903:DEBUG:Finished Request
+2020-01-30 09:15:17,905:DEBUG:GET http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/source {}
+2020-01-30 09:15:17,918:DEBUG:http://127.0.0.1:62086 "GET /session/c364f1e043c0cee07b13b476d6483250/source HTTP/1.1" 200 71438
+2020-01-30 09:15:17,920:DEBUG:Finished Request
+2020-01-30 09:15:17,950:DEBUG:POST http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:15:17,961:DEBUG:http://127.0.0.1:62086 "POST /session/c364f1e043c0cee07b13b476d6483250/element HTTP/1.1" 200 88
+2020-01-30 09:15:17,961:DEBUG:Finished Request
+2020-01-30 09:15:17,961:DEBUG:POST http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/timeouts {"implicit": 3000}
+2020-01-30 09:15:17,962:DEBUG:http://127.0.0.1:62086 "POST /session/c364f1e043c0cee07b13b476d6483250/timeouts HTTP/1.1" 200 14
+2020-01-30 09:15:17,962:DEBUG:Finished Request
+2020-01-30 09:15:17,962:DEBUG:GET http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/source {}
+2020-01-30 09:15:17,970:DEBUG:http://127.0.0.1:62086 "GET /session/c364f1e043c0cee07b13b476d6483250/source HTTP/1.1" 200 71438
+2020-01-30 09:15:17,972:DEBUG:Finished Request
+2020-01-30 09:15:17,972:DEBUG:DELETE http://127.0.0.1:62086/session/c364f1e043c0cee07b13b476d6483250/window {}
+2020-01-30 09:15:18,088:DEBUG:http://127.0.0.1:62086 "DELETE /session/c364f1e043c0cee07b13b476d6483250/window HTTP/1.1" 200 12
+2020-01-30 09:15:18,088:DEBUG:Finished Request
+2020-01-30 09:17:04,829:DEBUG:POST http://127.0.0.1:62635/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:17:04,830:DEBUG:Starting new HTTP connection (1): 127.0.0.1:62635
+2020-01-30 09:17:06,261:DEBUG:http://127.0.0.1:62635 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:17:06,261:DEBUG:Finished Request
+2020-01-30 09:17:06,262:DEBUG:POST http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:17:07,078:DEBUG:http://127.0.0.1:62635 "POST /session/7f6da8beba89dc743042b8bee22e0416/url HTTP/1.1" 200 14
+2020-01-30 09:17:07,079:DEBUG:Finished Request
+2020-01-30 09:17:12,080:DEBUG:GET http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/source {}
+2020-01-30 09:17:12,094:DEBUG:http://127.0.0.1:62635 "GET /session/7f6da8beba89dc743042b8bee22e0416/source HTTP/1.1" 200 71440
+2020-01-30 09:17:12,095:DEBUG:Finished Request
+2020-01-30 09:17:12,125:DEBUG:POST http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:17:12,136:DEBUG:http://127.0.0.1:62635 "POST /session/7f6da8beba89dc743042b8bee22e0416/element HTTP/1.1" 200 88
+2020-01-30 09:17:12,136:DEBUG:Finished Request
+2020-01-30 09:17:12,136:DEBUG:POST http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/timeouts {"implicit": 3000}
+2020-01-30 09:17:12,137:DEBUG:http://127.0.0.1:62635 "POST /session/7f6da8beba89dc743042b8bee22e0416/timeouts HTTP/1.1" 200 14
+2020-01-30 09:17:12,137:DEBUG:Finished Request
+2020-01-30 09:17:12,137:DEBUG:GET http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/source {}
+2020-01-30 09:17:12,145:DEBUG:http://127.0.0.1:62635 "GET /session/7f6da8beba89dc743042b8bee22e0416/source HTTP/1.1" 200 71440
+2020-01-30 09:17:12,146:DEBUG:Finished Request
+2020-01-30 09:17:12,146:DEBUG:DELETE http://127.0.0.1:62635/session/7f6da8beba89dc743042b8bee22e0416/window {}
+2020-01-30 09:17:12,263:DEBUG:http://127.0.0.1:62635 "DELETE /session/7f6da8beba89dc743042b8bee22e0416/window HTTP/1.1" 200 12
+2020-01-30 09:17:12,264:DEBUG:Finished Request
+2020-01-30 09:20:58,578:DEBUG:POST http://127.0.0.1:63801/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:20:58,603:DEBUG:Starting new HTTP connection (1): 127.0.0.1:63801
+2020-01-30 09:21:00,069:DEBUG:http://127.0.0.1:63801 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:21:00,069:DEBUG:Finished Request
+2020-01-30 09:21:00,070:DEBUG:POST http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:21:01,109:DEBUG:http://127.0.0.1:63801 "POST /session/5fc748aa0d316674731ad45cd71e7e91/url HTTP/1.1" 200 14
+2020-01-30 09:21:01,109:DEBUG:Finished Request
+2020-01-30 09:21:06,111:DEBUG:GET http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/source {}
+2020-01-30 09:21:06,125:DEBUG:http://127.0.0.1:63801 "GET /session/5fc748aa0d316674731ad45cd71e7e91/source HTTP/1.1" 200 71440
+2020-01-30 09:21:06,126:DEBUG:Finished Request
+2020-01-30 09:21:06,157:DEBUG:POST http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/element {"using": "xpath", "value": "/html/body/div/div[3]/div[1]/div[2]/div[5]/button"}
+2020-01-30 09:21:06,168:DEBUG:http://127.0.0.1:63801 "POST /session/5fc748aa0d316674731ad45cd71e7e91/element HTTP/1.1" 200 88
+2020-01-30 09:21:06,168:DEBUG:Finished Request
+2020-01-30 09:21:06,168:DEBUG:POST http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/timeouts {"implicit": 3000}
+2020-01-30 09:21:06,169:DEBUG:http://127.0.0.1:63801 "POST /session/5fc748aa0d316674731ad45cd71e7e91/timeouts HTTP/1.1" 200 14
+2020-01-30 09:21:06,169:DEBUG:Finished Request
+2020-01-30 09:21:06,169:DEBUG:GET http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/source {}
+2020-01-30 09:21:06,177:DEBUG:http://127.0.0.1:63801 "GET /session/5fc748aa0d316674731ad45cd71e7e91/source HTTP/1.1" 200 71440
+2020-01-30 09:21:06,178:DEBUG:Finished Request
+2020-01-30 09:21:06,179:DEBUG:DELETE http://127.0.0.1:63801/session/5fc748aa0d316674731ad45cd71e7e91/window {}
+2020-01-30 09:21:06,293:DEBUG:http://127.0.0.1:63801 "DELETE /session/5fc748aa0d316674731ad45cd71e7e91/window HTTP/1.1" 200 12
+2020-01-30 09:21:06,294:DEBUG:Finished Request
+2020-01-30 09:22:49,885:DEBUG:POST http://127.0.0.1:64391/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-01-30 09:22:49,904:DEBUG:Starting new HTTP connection (1): 127.0.0.1:64391
+2020-01-30 09:22:51,370:DEBUG:http://127.0.0.1:64391 "POST /session HTTP/1.1" 200 689
+2020-01-30 09:22:51,370:DEBUG:Finished Request
+2020-01-30 09:22:51,370:DEBUG:POST http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/url {"url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q257-1"}
+2020-01-30 09:22:52,161:DEBUG:http://127.0.0.1:64391 "POST /session/bb7b4e417fd6481fa1203d234f9365c5/url HTTP/1.1" 200 14
+2020-01-30 09:22:52,161:DEBUG:Finished Request
+2020-01-30 09:22:57,167:DEBUG:GET http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/source {}
+2020-01-30 09:22:57,180:DEBUG:http://127.0.0.1:64391 "GET /session/bb7b4e417fd6481fa1203d234f9365c5/source HTTP/1.1" 200 71438
+2020-01-30 09:22:57,182:DEBUG:Finished Request
+2020-01-30 09:22:57,211:DEBUG:POST http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/element {"using": "css selector", "value": "c-search-page__load-more"}
+2020-01-30 09:22:57,221:DEBUG:http://127.0.0.1:64391 "POST /session/bb7b4e417fd6481fa1203d234f9365c5/element HTTP/1.1" 404 1865
+2020-01-30 09:22:57,221:DEBUG:Finished Request
+2020-01-30 09:22:57,222:DEBUG:POST http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/timeouts {"implicit": 3000}
+2020-01-30 09:22:57,222:DEBUG:http://127.0.0.1:64391 "POST /session/bb7b4e417fd6481fa1203d234f9365c5/timeouts HTTP/1.1" 200 14
+2020-01-30 09:22:57,222:DEBUG:Finished Request
+2020-01-30 09:22:57,223:DEBUG:GET http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/source {}
+2020-01-30 09:22:57,230:DEBUG:http://127.0.0.1:64391 "GET /session/bb7b4e417fd6481fa1203d234f9365c5/source HTTP/1.1" 200 71438
+2020-01-30 09:22:57,232:DEBUG:Finished Request
+2020-01-30 09:22:57,232:DEBUG:DELETE http://127.0.0.1:64391/session/bb7b4e417fd6481fa1203d234f9365c5/window {}
+2020-01-30 09:22:57,350:DEBUG:http://127.0.0.1:64391 "DELETE /session/bb7b4e417fd6481fa1203d234f9365c5/window HTTP/1.1" 200 12
+2020-01-30 09:22:57,351:DEBUG:Finished Request
