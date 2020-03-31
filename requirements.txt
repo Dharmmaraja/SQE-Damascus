@@ -6,7 +6,7 @@ attrs==19.3.0
 backcall==0.1.0
 beautifulsoup4==4.8.2
 black==19.3b0
-bleach==2.1.4
+bleach==3.1.4
 blis==0.4.1
 Bottleneck==1.2.1
 brewer2mpl==1.4.1
